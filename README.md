@@ -1,0 +1,1 @@
+[ゼロから作るDeep Learning 2](https://www.oreilly.co.jp/books/9784873118369/)の写経
